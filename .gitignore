@@ -1,0 +1,13 @@
+data/
+.runtime/
+__pycache__/
+*.py[cod]
+*.sqlite*
+*.db
+.env
+*.zip
+*.session*
+.DS_Store
+.venv/
+.pytest_cache/
+*.log

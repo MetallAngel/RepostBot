@@ -1,0 +1,3 @@
+import base64
+PNG=base64.b64decode('iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+a0JcAAAAASUVORK5CYII=')
+IMAGE='data:image/png;base64,'+base64.b64encode(PNG).decode()
